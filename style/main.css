@@ -1,0 +1,101 @@
+body {
+	background-color:#c75d44;
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	margin: 0;
+}
+#wrapper { 
+	background-color: #fff;
+	min-width: 700;
+	max-width: 1024;
+	margin-left: auto;
+	margin-right: auto;
+	width:80%;
+}
+body#sf {
+	background-color:#000;
+	background-image: url("../images/seamless-space-n4-opengameart.png");
+	background-repeat: repeat;
+}
+span#b {
+	font-size: 200%;
+}
+div#bg-hero {
+	background-image: url("../images/gradient.png");
+	background-repeat: repeat-x;
+}
+div#bg-wht {
+	background-image: url("../images/wht-sm.png");
+	background-repeat: repeat-x;
+}
+ul#ql {
+	margin:0px 10%;
+}
+div#back {
+	background-color: #806546;
+	padding: 1px;
+	margin: 0px;
+}
+/*Survey IFrame*/
+	iframe#survey{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+/*Header Modifiers*/
+	h1 {
+		margin:10px 5px 10px 30px;
+	}
+	h1#snis {
+		color:#cb9b3b;
+	}
+	h2 {
+		margin:10px 8%;
+	}
+	h3 {
+		margin:5px 8%;
+		text-align:center;
+		color:#4587d0;
+	}
+/*Paragraph Modifiers*/
+	}
+	p#sts {
+		font-size: 15px;
+		font-family: Arial, sans-serif;
+		margin:10px 10%;
+	}
+		p#sts {
+		font-size: 15px;
+		font-family: Arial, sans-serif;
+		margin:10px 10%;
+	}
+	p#stc {
+		font-size: 20px;
+		font-family: Arial, sans-serif;
+		margin:10px 10%;
+		text-align:center;
+	}
+	p#stcw {
+		font-size: 20px;
+		font-family: Arial, sans-serif;
+		margin:10px 10%;
+		text-align:center;
+		color:white;
+		
+	}
+	p#stw {
+		font-size: 20px;
+		font-family: Arial, sans-serif;
+		margin:10px 10%;
+		color:white;
+		
+	}
+	strong {
+		font-family:serif;
+	}
+/*Image Modifiers*/
+	#routeft {
+		float:left;
+		width: 650px;
+		height: 100%;
+	}

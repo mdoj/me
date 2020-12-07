@@ -1,0 +1,21 @@
+﻿p#stdb {
+	font-size: 15px;
+	font-family: Arial, sans-serif;
+	margin:10px 10%;
+	color:#4587d0;
+}
+p#stdbl {
+	font-size: 30px;
+	font-family: Arial, sans-serif;
+	margin:10px 10%;
+	color:#4587d0;
+}
+footer {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align:center;
+}
+form#contactuate{
+	margin:10px 10%;
+}
